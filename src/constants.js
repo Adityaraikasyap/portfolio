@@ -30,7 +30,7 @@ import dmiac from './assets/tech_logo/dmaic.jpg'
 import six from './assets/tech_logo/sixsigma.png'
 
 // Experience Section Logo's
-import webverseLogo from './assets/company_logo/webverse_logo.png';
+import webverseLogo from './assets/company_logo/iit.png';
 // import agcLogo from './assets/company_logo/agc_logo.png';
 // import newtonschoolLogo from './assets/company_logo/newtonschool_logo.png';
 
