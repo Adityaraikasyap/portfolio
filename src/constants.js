@@ -230,7 +230,7 @@ export const SkillsInfo = [
          "Identified bottlenecks and optimized the use of resources like labor, machines, and materials. Deployed Control points to maintain traffic at junctions. Integrated AGVs, Cranes, and Robots to enhance automated systems.",
       image: movierecLogo,
       tags: ["Flexsim", "Origin"],
-      github: "https://github.com/codingmastr/Movie-Recommendation-App",
+      github: "https://github.com/Adityaraikasyap/Flexsim",
       /*webapp: "https://movie-recommendation-app-jet.vercel.app/",*/
     },
     {
@@ -240,7 +240,8 @@ export const SkillsInfo = [
       "Dynamic simulations to ensure Precise integration of piston-cylinder CAD modeling.  Performed FEA and thermal simulations to ensure piston-cylinder performance under operational loads.", 
            image: npmLogo,
       tags: ["SolidWorks","Ansys"],
-      github: "https://drive.google.com/drive/u/2/folders/1zc3i4tDPYfDFzDwFvVTwhpTdJU4CpG0-",
+      // github: "https://drive.google.com/drive/u/2/folders/1zc3i4tDPYfDFzDwFvVTwhpTdJU4CpG0-",
+      github: "https://github.com/Adityaraikasyap/4-stroke-piston-cylinder-",
     /*  webapp: "https://www.npmjs.com/package/cmtk-email-validator",*/
     },
    /* {
